@@ -1,0 +1,3 @@
+https://www.virtualbox.org/manual/ch06.html
+https://wiki.centos.org/HowTos/Network/IPTables
+https://www.karlrupp.net/en/computer/nat_tutorial
